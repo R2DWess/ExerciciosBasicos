@@ -16,6 +16,5 @@ public class IdadeEmDias {
         int totalDias = anos * 365 + meses * 30 + dias;
 
         System.out.println("A idade de " + anos + " anos, " + meses + " meses e " + dias + " dias é igual a " + totalDias + " dias.");
-// lla
     }
 }
